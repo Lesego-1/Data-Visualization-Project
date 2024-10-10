@@ -1,0 +1,90 @@
+City,Date,gross income,Product line,Total,cost price,Quantity,Profit Margins
+Yangon,2019-01-01,26.14,Health and beauty,548.97,522.83,7,4.76
+Yangon,2019-01-02,11.74,Electronic accessories,246.49,234.75,5,4.76
+Naypyitaw,2019-01-03,21.51,Electronic accessories,451.71,430.2,5,4.76
+Mandalay,2019-01-04,22.09,Food and beverages,463.89,441.8,5,4.76
+Naypyitaw,2019-01-05,19.88,Food and beverages,417.56,397.68,4,4.76
+Mandalay,2019-01-06,25.51,Health and beauty,535.72,510.21,9,4.76
+Naypyitaw,2019-01-07,34.39,Electronic accessories,722.23,687.84,8,4.76
+Mandalay,2019-01-08,15.15,Health and beauty,318.11,302.96,4,4.76
+Naypyitaw,2019-01-09,7.7,Food and beverages,161.7,154.0,8,4.76
+Naypyitaw,2019-01-10,9.48,Home and lifestyle,199.0,189.52,4,4.76
+Mandalay,2019-01-11,24.81,Home and lifestyle,521.01,496.2,6,4.76
+Yangon,2019-01-12,18.64,Sports and travel,391.42,372.78,6,4.76
+Yangon,2019-01-13,5.48,Food and beverages,115.08,109.6,10,4.76
+Naypyitaw,2019-01-14,27.42,Food and beverages,575.74,548.32,8,4.76
+Naypyitaw,2019-01-15,45.25,Health and beauty,950.25,905.0,10,4.76
+Naypyitaw,2019-01-16,32.39,Sports and travel,680.15,647.76,8,4.76
+Mandalay,2019-01-17,19.95,Food and beverages,418.95,399.0,10,4.76
+Yangon,2019-01-18,15.23,Home and lifestyle,319.79,304.56,9,4.76
+Yangon,2019-01-19,4.32,Sports and travel,90.7,86.38,7,4.76
+Naypyitaw,2019-01-20,5.75,Sports and travel,120.64,114.9,6,4.76
+Yangon,2019-01-21,11.8,Electronic accessories,247.87,236.07,9,4.76
+Mandalay,2019-01-22,37.95,Fashion accessories,796.91,758.96,8,4.76
+Naypyitaw,2019-01-23,8.72,Sports and travel,183.04,174.32,2,4.76
+Naypyitaw,2019-01-24,9.32,Fashion accessories,195.72,186.4,2,4.76
+Mandalay,2019-01-25,6.52,Fashion accessories,137.0,130.48,4,4.76
+Yangon,2019-01-26,9.69,Home and lifestyle,203.55,193.86,9,4.76
+Yangon,2019-01-27,33.21,Home and lifestyle,697.37,664.16,7,4.76
+Yangon,2019-01-28,10.24,Electronic accessories,215.0,204.76,4,4.76
+Naypyitaw,2019-01-29,18.7,Electronic accessories,392.65,373.95,5,4.76
+Yangon,2019-01-30,7.27,Electronic accessories,152.71,145.44,4,4.76
+Naypyitaw,2019-01-31,7.15,Electronic accessories,150.1,142.95,3,4.76
+Mandalay,2019-02-01,19.16,Fashion accessories,402.27,383.11,7,4.76
+Mandalay,2019-02-02,4.12,Electronic accessories,86.62,82.5,3,4.76
+Naypyitaw,2019-02-03,21.03,Home and lifestyle,441.69,420.66,6,4.76
+Naypyitaw,2019-02-04,14.03,Food and beverages,294.65,280.62,6,4.76
+Mandalay,2019-02-05,6.12,Home and lifestyle,128.43,122.31,9,4.77
+Naypyitaw,2019-02-06,5.96,Fashion accessories,125.06,119.1,5,4.77
+Naypyitaw,2019-02-07,48.6,Fashion accessories,1020.71,972.1,10,4.76
+Yangon,2019-02-08,40.14,Home and lifestyle,843.03,802.89,9,4.76
+Yangon,2019-02-09,4.15,Electronic accessories,87.23,83.08,4,4.76
+Mandalay,2019-02-10,11.11,Sports and travel,233.23,222.12,6,4.76
+Mandalay,2019-02-11,17.18,Sports and travel,360.88,343.7,10,4.76
+Mandalay,2019-02-12,20.55,Fashion accessories,431.44,410.9,10,4.76
+Mandalay,2019-02-13,9.99,Fashion accessories,209.77,199.78,2,4.76
+Naypyitaw,2019-02-14,6.94,Home and lifestyle,145.74,138.8,2,4.76
+Mandalay,2019-02-15,31.76,Sports and travel,666.94,635.18,7,4.76
+Yangon,2019-02-16,44.14,Sports and travel,926.95,882.81,9,4.76
+Yangon,2019-02-17,4.9,Home and lifestyle,102.84,97.94,1,4.76
+Mandalay,2019-02-18,8.59,Fashion accessories,180.4,171.81,3,4.76
+Naypyitaw,2019-02-19,49.26,Food and beverages,1034.46,985.2,10,4.76
+Naypyitaw,2019-02-20,24.66,Sports and travel,517.97,493.3,10,4.76
+Mandalay,2019-02-21,12.06,Food and beverages,253.26,241.2,4,4.76
+Naypyitaw,2019-02-22,9.3,Fashion accessories,195.26,185.96,2,4.76
+Yangon,2019-02-23,11.28,Sports and travel,236.88,225.6,3,4.76
+Naypyitaw,2019-02-24,3.25,Fashion accessories,68.24,64.99,1,4.76
+Yangon,2019-02-25,1.45,Electronic accessories,30.41,28.96,1,4.77
+Yangon,2019-02-26,6.09,Sports and travel,127.83,121.74,2,4.76
+Mandalay,2019-02-27,33.23,Health and beauty,697.93,664.7,10,4.76
+Naypyitaw,2019-02-28,12.37,Electronic accessories,259.77,247.4,10,4.76
+Yangon,2019-03-01,2.35,Electronic accessories,49.42,47.07,3,4.76
+Yangon,2019-03-02,9.73,Fashion accessories,204.25,194.52,4,4.76
+Yangon,2019-03-03,2.15,Fashion accessories,45.11,42.96,2,4.77
+Mandalay,2019-03-04,12.44,Home and lifestyle,261.2,248.76,4,4.76
+Yangon,2019-03-05,3.85,Sports and travel,80.95,77.1,3,4.76
+Naypyitaw,2019-03-06,8.34,Home and lifestyle,175.05,166.71,3,4.76
+Naypyitaw,2019-03-07,29.38,Electronic accessories,616.98,587.6,10,4.76
+Mandalay,2019-03-08,32.62,Fashion accessories,684.91,652.3,10,4.76
+Yangon,2019-03-09,28.96,Home and lifestyle,608.08,579.12,6,4.76
+Naypyitaw,2019-03-10,2.62,Food and beverages,55.04,52.42,1,4.76
+Yangon,2019-03-11,26.1,Electronic accessories,548.16,522.06,7,4.76
+Naypyitaw,2019-03-12,3.04,Home and lifestyle,63.91,60.87,1,4.76
+Mandalay,2019-03-13,0.89,Health and beauty,18.64,17.75,1,4.77
+Mandalay,2019-03-14,19.23,Health and beauty,403.87,384.64,4,4.76
+Yangon,2019-03-15,9.63,Fashion accessories,202.34,192.7,5,4.76
+Naypyitaw,2019-03-16,32.8,Food and beverages,688.72,655.92,9,4.76
+Yangon,2019-03-17,5.66,Home and lifestyle,118.9,113.24,4,4.76
+Mandalay,2019-03-18,17.87,Home and lifestyle,375.36,357.49,7,4.76
+Yangon,2019-03-19,8.69,Food and beverages,182.43,173.74,7,4.76
+Yangon,2019-03-20,4.39,Food and beverages,92.3,87.9,1,4.77
+Mandalay,2019-03-21,9.19,Home and lifestyle,193.07,183.88,4,4.76
+Mandalay,2019-03-22,20.72,Health and beauty,435.12,414.4,5,4.76
+Yangon,2019-03-23,18.93,Fashion accessories,397.61,378.68,4,4.76
+Mandalay,2019-03-24,39.71,Electronic accessories,833.96,794.25,9,4.76
+Naypyitaw,2019-03-25,17.19,Food and beverages,360.93,343.74,6,4.76
+Naypyitaw,2019-03-26,8.95,Home and lifestyle,188.0,179.05,5,4.76
+Yangon,2019-03-27,2.09,Electronic accessories,43.87,41.78,2,4.76
+Mandalay,2019-03-28,12.92,Home and lifestyle,271.29,258.37,7,4.76
+Yangon,2019-03-29,11.63,Health and beauty,244.23,232.6,4,4.76
+Mandalay,2019-03-30,30.15,Health and beauty,633.11,602.96,8,4.76
