@@ -1,0 +1,333 @@
+City,Date,gross income,Product line,Total,cost price,Quantity
+Mandalay,2019-01-01,8.23,Food and beverages,172.75,164.52,3
+Mandalay,2019-01-01,2.9,Fashion accessories,60.82,57.92,4
+Mandalay,2019-01-01,5.1,Electronic accessories,107.14,102.04,4
+Mandalay,2019-01-02,28.12,Sports and travel,590.44,562.32,6
+Mandalay,2019-01-02,4.03,Home and lifestyle,84.63,80.6,2
+Mandalay,2019-01-03,13.2,Health and beauty,277.14,263.94,3
+Mandalay,2019-01-03,3.32,Home and lifestyle,69.72,66.4,2
+Mandalay,2019-01-03,1.68,Fashion accessories,35.2,33.52,1
+Mandalay,2019-01-04,22.09,Food and beverages,463.89,441.8,5
+Mandalay,2019-01-04,23.53,Fashion accessories,494.18,470.65,5
+Mandalay,2019-01-04,35.13,Sports and travel,737.76,702.63,9
+Mandalay,2019-01-04,33.51,Sports and travel,703.75,670.24,8
+Mandalay,2019-01-05,12.05,Home and lifestyle,253.01,240.96,8
+Mandalay,2019-01-05,4.34,Home and lifestyle,91.06,86.72,1
+Mandalay,2019-01-05,20.74,Sports and travel,435.46,414.72,6
+Mandalay,2019-01-05,18.79,Electronic accessories,394.63,375.84,4
+Mandalay,2019-01-06,25.51,Health and beauty,535.72,510.21,9
+Mandalay,2019-01-06,9.0,Food and beverages,189.09,180.09,9
+Mandalay,2019-01-06,5.68,Electronic accessories,119.26,113.58,6
+Mandalay,2019-01-06,3.57,Fashion accessories,75.05,71.48,4
+Mandalay,2019-01-06,1.62,Home and lifestyle,33.94,32.32,2
+Mandalay,2019-01-07,24.78,Sports and travel,520.41,495.63,9
+Mandalay,2019-01-08,15.15,Health and beauty,318.11,302.96,4
+Mandalay,2019-01-08,29.28,Fashion accessories,614.94,585.66,6
+Mandalay,2019-01-08,7.28,Food and beverages,152.84,145.56,3
+Mandalay,2019-01-08,14.5,Food and beverages,304.54,290.04,3
+Mandalay,2019-01-09,23.1,Health and beauty,485.04,461.94,6
+Mandalay,2019-01-10,28.96,Health and beauty,608.2,579.24,9
+Mandalay,2019-01-10,43.94,Health and beauty,922.63,878.7,10
+Mandalay,2019-01-11,24.81,Home and lifestyle,521.01,496.2,6
+Mandalay,2019-01-11,10.62,Health and beauty,223.07,212.45,7
+Mandalay,2019-01-12,1.65,Sports and travel,34.63,32.98,2
+Mandalay,2019-01-12,25.49,Fashion accessories,535.37,509.88,7
+Mandalay,2019-01-12,5.49,Fashion accessories,115.19,109.7,5
+Mandalay,2019-01-12,2.57,Fashion accessories,53.93,51.36,1
+Mandalay,2019-01-13,5.34,Home and lifestyle,112.22,106.88,2
+Mandalay,2019-01-13,44.98,Sports and travel,944.62,899.64,9
+Mandalay,2019-01-13,22.59,Fashion accessories,474.35,451.76,8
+Mandalay,2019-01-14,40.63,Sports and travel,853.15,812.52,9
+Mandalay,2019-01-14,13.87,Fashion accessories,291.21,277.34,7
+Mandalay,2019-01-14,6.97,Sports and travel,146.33,139.36,4
+Mandalay,2019-01-14,26.23,Electronic accessories,550.93,524.7,6
+Mandalay,2019-01-14,25.95,Sports and travel,545.05,519.1,10
+Mandalay,2019-01-15,28.74,Home and lifestyle,603.62,574.88,8
+Mandalay,2019-01-15,18.31,Fashion accessories,384.47,366.16,4
+Mandalay,2019-01-16,3.61,Electronic accessories,75.78,72.17,1
+Mandalay,2019-01-16,12.57,Home and lifestyle,263.97,251.4,5
+Mandalay,2019-01-16,43.75,Health and beauty,918.73,874.98,9
+Mandalay,2019-01-16,28.02,Sports and travel,588.36,560.34,6
+Mandalay,2019-01-17,19.95,Food and beverages,418.95,399.0,10
+Mandalay,2019-01-17,17.03,Health and beauty,357.59,340.56,8
+Mandalay,2019-01-17,20.01,Food and beverages,420.26,400.25,5
+Mandalay,2019-01-17,15.87,Electronic accessories,333.21,317.34,6
+Mandalay,2019-01-17,7.92,Food and beverages,166.24,158.32,8
+Mandalay,2019-01-19,2.71,Food and beverages,56.95,54.24,3
+Mandalay,2019-01-19,37.8,Home and lifestyle,793.72,755.92,8
+Mandalay,2019-01-19,9.29,Home and lifestyle,195.17,185.88,4
+Mandalay,2019-01-19,11.56,Home and lifestyle,242.68,231.12,3
+Mandalay,2019-01-19,7.35,Fashion accessories,154.39,147.04,2
+Mandalay,2019-01-19,5.11,Home and lifestyle,107.31,102.2,4
+Mandalay,2019-01-20,11.5,Electronic accessories,241.46,229.96,4
+Mandalay,2019-01-20,12.95,Health and beauty,271.95,259.0,10
+Mandalay,2019-01-20,4.44,Home and lifestyle,93.29,88.85,5
+Mandalay,2019-01-20,4.56,Fashion accessories,95.67,91.11,3
+Mandalay,2019-01-20,44.88,Electronic accessories,942.45,897.57,9
+Mandalay,2019-01-21,23.09,Home and lifestyle,484.89,461.8,5
+Mandalay,2019-01-21,6.96,Sports and travel,146.22,139.26,3
+Mandalay,2019-01-21,10.36,Sports and travel,217.63,207.27,7
+Mandalay,2019-01-21,6.19,Sports and travel,130.04,123.85,5
+Mandalay,2019-01-22,37.95,Fashion accessories,796.91,758.96,8
+Mandalay,2019-01-22,8.6,Food and beverages,180.62,172.02,3
+Mandalay,2019-01-22,13.61,Electronic accessories,285.7,272.1,6
+Mandalay,2019-01-22,21.73,Food and beverages,456.29,434.56,7
+Mandalay,2019-01-23,31.22,Health and beauty,655.55,624.33,9
+Mandalay,2019-01-23,27.21,Electronic accessories,571.41,544.2,6
+Mandalay,2019-01-23,8.14,Fashion accessories,170.88,162.74,2
+Mandalay,2019-01-23,1.59,Electronic accessories,33.36,31.77,3
+Mandalay,2019-01-23,37.84,Health and beauty,794.65,756.81,9
+Mandalay,2019-01-23,14.76,Fashion accessories,310.04,295.28,4
+Mandalay,2019-01-23,3.31,Electronic accessories,69.41,66.1,5
+Mandalay,2019-01-24,37.55,Home and lifestyle,788.51,750.96,8
+Mandalay,2019-01-24,12.21,Electronic accessories,256.41,244.2,3
+Mandalay,2019-01-24,25.57,Food and beverages,536.99,511.42,7
+Mandalay,2019-01-24,20.95,Food and beverages,439.9,418.95,9
+Mandalay,2019-01-25,6.52,Fashion accessories,137.0,130.48,4
+Mandalay,2019-01-25,7.66,Fashion accessories,160.86,153.2,4
+Mandalay,2019-01-25,2.72,Sports and travel,57.17,54.45,1
+Mandalay,2019-01-25,37.3,Food and beverages,783.3,746.0,10
+Mandalay,2019-01-25,16.86,Sports and travel,354.01,337.15,5
+Mandalay,2019-01-26,29.91,Health and beauty,628.17,598.26,6
+Mandalay,2019-01-26,16.79,Fashion accessories,352.58,335.79,7
+Mandalay,2019-01-26,16.67,Health and beauty,350.07,333.4,5
+Mandalay,2019-01-26,16.98,Food and beverages,356.55,339.57,7
+Mandalay,2019-01-27,20.15,Electronic accessories,423.15,403.0,10
+Mandalay,2019-01-27,9.05,Health and beauty,190.16,181.1,10
+Mandalay,2019-01-27,1.95,Health and beauty,40.96,39.01,1
+Mandalay,2019-01-28,5.98,Electronic accessories,125.66,119.68,8
+Mandalay,2019-01-28,23.98,Sports and travel,503.56,479.58,6
+Mandalay,2019-01-29,19.55,Sports and travel,410.51,390.96,4
+Mandalay,2019-01-29,10.23,Health and beauty,214.75,204.52,4
+Mandalay,2019-01-30,9.91,Home and lifestyle,208.09,198.18,9
+Mandalay,2019-01-30,17.39,Sports and travel,365.08,347.7,6
+Mandalay,2019-01-31,19.27,Food and beverages,404.65,385.38,9
+Mandalay,2019-01-31,7.21,Electronic accessories,151.48,144.27,3
+Mandalay,2019-01-31,19.59,Health and beauty,411.38,391.79,7
+Mandalay,2019-01-31,26.91,Health and beauty,565.22,538.3,7
+Mandalay,2019-01-31,6.75,Health and beauty,141.75,135.0,10
+Mandalay,2019-02-01,19.16,Fashion accessories,402.27,383.11,7
+Mandalay,2019-02-01,12.15,Home and lifestyle,255.15,243.0,9
+Mandalay,2019-02-01,17.83,Food and beverages,374.39,356.56,4
+Mandalay,2019-02-02,4.12,Electronic accessories,86.62,82.5,3
+Mandalay,2019-02-02,3.75,Sports and travel,78.72,74.97,1
+Mandalay,2019-02-02,9.19,Electronic accessories,193.01,183.82,7
+Mandalay,2019-02-02,6.1,Fashion accessories,128.02,121.92,2
+Mandalay,2019-02-03,15.92,Home and lifestyle,334.34,318.42,9
+Mandalay,2019-02-03,4.73,Electronic accessories,99.33,94.6,4
+Mandalay,2019-02-03,24.92,Food and beverages,523.37,498.45,5
+Mandalay,2019-02-03,3.79,Sports and travel,79.61,75.82,1
+Mandalay,2019-02-04,6.38,Food and beverages,133.92,127.54,7
+Mandalay,2019-02-04,18.98,Fashion accessories,398.48,379.5,10
+Mandalay,2019-02-05,6.12,Home and lifestyle,128.43,122.31,9
+Mandalay,2019-02-05,12.32,Health and beauty,258.68,246.36,6
+Mandalay,2019-02-05,8.66,Electronic accessories,181.82,173.16,9
+Mandalay,2019-02-05,9.94,Fashion accessories,208.69,198.75,5
+Mandalay,2019-02-05,13.74,Fashion accessories,288.58,274.84,4
+Mandalay,2019-02-06,17.11,Health and beauty,359.2,342.1,10
+Mandalay,2019-02-06,2.19,Sports and travel,45.93,43.74,2
+Mandalay,2019-02-06,4.81,Health and beauty,100.92,96.11,1
+Mandalay,2019-02-06,5.72,Health and beauty,120.16,114.44,2
+Mandalay,2019-02-07,10.17,Fashion accessories,213.53,203.36,8
+Mandalay,2019-02-07,18.27,Fashion accessories,383.76,365.49,9
+Mandalay,2019-02-07,3.13,Food and beverages,65.74,62.61,3
+Mandalay,2019-02-07,16.82,Sports and travel,353.17,336.35,5
+Mandalay,2019-02-07,6.91,Fashion accessories,145.07,138.16,2
+Mandalay,2019-02-07,33.44,Fashion accessories,702.22,668.78,7
+Mandalay,2019-02-07,2.37,Fashion accessories,49.81,47.44,1
+Mandalay,2019-02-07,35.37,Sports and travel,742.81,707.44,8
+Mandalay,2019-02-08,0.96,Health and beauty,20.11,19.15,1
+Mandalay,2019-02-08,1.35,Health and beauty,28.42,27.07,1
+Mandalay,2019-02-08,1.96,Sports and travel,41.08,39.12,1
+Mandalay,2019-02-08,22.41,Electronic accessories,470.67,448.26,6
+Mandalay,2019-02-08,6.6,Electronic accessories,138.66,132.06,6
+Mandalay,2019-02-09,7.39,Fashion accessories,155.19,147.8,5
+Mandalay,2019-02-09,34.83,Food and beverages,731.43,696.6,9
+Mandalay,2019-02-09,39.7,Electronic accessories,833.6,793.9,10
+Mandalay,2019-02-09,36.52,Food and beverages,767.02,730.5,10
+Mandalay,2019-02-10,11.11,Sports and travel,233.23,222.12,6
+Mandalay,2019-02-10,29.03,Health and beauty,609.59,580.56,8
+Mandalay,2019-02-11,17.18,Sports and travel,360.88,343.7,10
+Mandalay,2019-02-11,30.19,Home and lifestyle,633.99,603.8,10
+Mandalay,2019-02-11,9.9,Sports and travel,207.86,197.96,4
+Mandalay,2019-02-12,20.55,Fashion accessories,431.44,410.9,10
+Mandalay,2019-02-12,34.96,Home and lifestyle,734.08,699.12,9
+Mandalay,2019-02-12,3.47,Fashion accessories,72.87,69.4,2
+Mandalay,2019-02-12,10.13,Health and beauty,212.69,202.56,8
+Mandalay,2019-02-13,9.99,Fashion accessories,209.77,199.78,2
+Mandalay,2019-02-13,30.37,Sports and travel,637.73,607.36,8
+Mandalay,2019-02-13,4.91,Sports and travel,103.04,98.13,1
+Mandalay,2019-02-13,3.7,Sports and travel,77.67,73.97,1
+Mandalay,2019-02-14,9.33,Sports and travel,195.95,186.62,2
+Mandalay,2019-02-14,4.42,Sports and travel,92.87,88.45,1
+Mandalay,2019-02-14,7.28,Sports and travel,152.78,145.5,3
+Mandalay,2019-02-14,25.21,Food and beverages,529.51,504.3,6
+Mandalay,2019-02-14,15.32,Health and beauty,321.77,306.45,5
+Mandalay,2019-02-15,31.76,Sports and travel,666.94,635.18,7
+Mandalay,2019-02-15,13.71,Health and beauty,288.01,274.3,5
+Mandalay,2019-02-15,6.86,Electronic accessories,143.99,137.13,3
+Mandalay,2019-02-15,7.84,Fashion accessories,164.68,156.84,4
+Mandalay,2019-02-15,5.99,Fashion accessories,125.71,119.72,2
+Mandalay,2019-02-15,27.18,Food and beverages,570.78,543.6,10
+Mandalay,2019-02-16,11.47,Electronic accessories,240.97,229.5,10
+Mandalay,2019-02-16,3.7,Fashion accessories,77.66,73.96,1
+Mandalay,2019-02-17,4.04,Sports and travel,84.76,80.72,4
+Mandalay,2019-02-17,3.56,Food and beverages,74.76,71.2,1
+Mandalay,2019-02-17,7.76,Home and lifestyle,163.0,155.24,4
+Mandalay,2019-02-17,12.88,Sports and travel,270.58,257.7,5
+Mandalay,2019-02-18,8.59,Fashion accessories,180.4,171.81,3
+Mandalay,2019-02-18,24.44,Fashion accessories,513.23,488.79,9
+Mandalay,2019-02-18,26.21,Health and beauty,550.37,524.16,9
+Mandalay,2019-02-18,5.62,Home and lifestyle,118.06,112.44,3
+Mandalay,2019-02-18,7.2,Fashion accessories,151.28,144.08,2
+Mandalay,2019-02-19,9.71,Electronic accessories,203.93,194.22,9
+Mandalay,2019-02-19,16.97,Electronic accessories,356.33,339.36,8
+Mandalay,2019-02-19,9.93,Fashion accessories,208.43,198.5,2
+Mandalay,2019-02-20,27.95,Fashion accessories,586.97,559.02,7
+Mandalay,2019-02-20,20.51,Home and lifestyle,430.71,410.2,5
+Mandalay,2019-02-20,13.34,Sports and travel,280.04,266.7,10
+Mandalay,2019-02-20,7.24,Food and beverages,152.02,144.78,2
+Mandalay,2019-02-20,28.46,Fashion accessories,597.63,569.17,7
+Mandalay,2019-02-21,12.06,Food and beverages,253.26,241.2,4
+Mandalay,2019-02-21,6.95,Health and beauty,145.97,139.02,2
+Mandalay,2019-02-22,3.62,Fashion accessories,75.94,72.32,4
+Mandalay,2019-02-22,9.46,Sports and travel,198.64,189.18,3
+Mandalay,2019-02-23,14.52,Sports and travel,304.92,290.4,3
+Mandalay,2019-02-23,2.22,Health and beauty,46.68,44.46,3
+Mandalay,2019-02-24,16.35,Sports and travel,343.41,327.06,6
+Mandalay,2019-02-24,6.35,Home and lifestyle,133.35,127.0,4
+Mandalay,2019-02-24,5.79,Food and beverages,121.57,115.78,2
+Mandalay,2019-02-25,13.98,Fashion accessories,293.64,279.66,3
+Mandalay,2019-02-25,21.78,Sports and travel,457.38,435.6,6
+Mandalay,2019-02-25,33.11,Home and lifestyle,695.24,662.13,7
+Mandalay,2019-02-25,41.62,Fashion accessories,874.12,832.5,10
+Mandalay,2019-02-25,4.57,Fashion accessories,95.92,91.35,1
+Mandalay,2019-02-25,7.89,Food and beverages,165.65,157.76,2
+Mandalay,2019-02-26,41.29,Health and beauty,867.09,825.8,10
+Mandalay,2019-02-26,14.96,Home and lifestyle,314.06,299.1,3
+Mandalay,2019-02-26,11.99,Food and beverages,251.72,239.73,3
+Mandalay,2019-02-27,33.23,Health and beauty,697.93,664.7,10
+Mandalay,2019-02-27,4.41,Food and beverages,92.56,88.15,5
+Mandalay,2019-02-27,7.86,Fashion accessories,165.12,157.26,3
+Mandalay,2019-02-27,14.82,Food and beverages,311.19,296.37,3
+Mandalay,2019-02-27,5.57,Electronic accessories,116.91,111.34,2
+Mandalay,2019-02-27,1.68,Fashion accessories,35.31,33.63,1
+Mandalay,2019-02-28,18.91,Electronic accessories,397.21,378.3,5
+Mandalay,2019-02-28,16.74,Health and beauty,351.6,334.86,6
+Mandalay,2019-02-28,16.79,Sports and travel,352.67,335.88,9
+Mandalay,2019-02-28,12.04,Fashion accessories,252.76,240.72,4
+Mandalay,2019-03-01,6.45,Sports and travel,135.36,128.91,3
+Mandalay,2019-03-01,17.62,Fashion accessories,370.12,352.5,6
+Mandalay,2019-03-02,8.66,Food and beverages,181.88,173.22,3
+Mandalay,2019-03-02,3.59,Health and beauty,75.47,71.88,4
+Mandalay,2019-03-02,4.06,Sports and travel,85.3,81.24,2
+Mandalay,2019-03-02,9.34,Food and beverages,196.14,186.8,2
+Mandalay,2019-03-02,11.01,Health and beauty,231.24,220.23,3
+Mandalay,2019-03-02,8.38,Fashion accessories,175.92,167.54,2
+Mandalay,2019-03-02,22.43,Sports and travel,470.99,448.56,7
+Mandalay,2019-03-02,1.97,Electronic accessories,41.45,39.48,1
+Mandalay,2019-03-02,1.74,Sports and travel,36.55,34.81,1
+Mandalay,2019-03-03,6.92,Sports and travel,145.4,138.48,6
+Mandalay,2019-03-03,4.91,Home and lifestyle,103.11,98.2,2
+Mandalay,2019-03-03,6.48,Sports and travel,136.14,129.66,2
+Mandalay,2019-03-04,12.44,Home and lifestyle,261.2,248.76,4
+Mandalay,2019-03-04,4.85,Food and beverages,101.81,96.96,3
+Mandalay,2019-03-04,9.88,Fashion accessories,207.59,197.7,10
+Mandalay,2019-03-04,36.21,Health and beauty,760.44,724.23,9
+Mandalay,2019-03-04,39.78,Home and lifestyle,835.29,795.51,9
+Mandalay,2019-03-04,25.12,Health and beauty,527.51,502.39,7
+Mandalay,2019-03-04,8.6,Electronic accessories,180.6,172.0,4
+Mandalay,2019-03-05,5.24,Fashion accessories,110.12,104.88,6
+Mandalay,2019-03-05,8.95,Fashion accessories,187.87,178.92,7
+Mandalay,2019-03-05,6.62,Home and lifestyle,138.98,132.36,3
+Mandalay,2019-03-05,4.67,Food and beverages,98.03,93.36,4
+Mandalay,2019-03-06,34.87,Sports and travel,732.27,697.4,10
+Mandalay,2019-03-06,18.26,Home and lifestyle,383.52,365.26,7
+Mandalay,2019-03-06,26.56,Electronic accessories,557.72,531.16,7
+Mandalay,2019-03-06,2.69,Food and beverages,56.41,53.72,1
+Mandalay,2019-03-07,36.62,Electronic accessories,769.1,732.48,8
+Mandalay,2019-03-08,32.62,Fashion accessories,684.91,652.3,10
+Mandalay,2019-03-08,5.53,Home and lifestyle,116.14,110.61,9
+Mandalay,2019-03-08,4.46,Fashion accessories,93.74,89.28,4
+Mandalay,2019-03-08,18.32,Home and lifestyle,384.72,366.4,5
+Mandalay,2019-03-08,14.3,Electronic accessories,300.22,285.92,8
+Mandalay,2019-03-09,38.6,Food and beverages,810.6,772.0,10
+Mandalay,2019-03-09,36.06,Electronic accessories,757.37,721.3,10
+Mandalay,2019-03-09,38.18,Home and lifestyle,801.86,763.68,8
+Mandalay,2019-03-09,4.11,Sports and travel,86.25,82.14,6
+Mandalay,2019-03-09,19.13,Electronic accessories,401.69,382.56,4
+Mandalay,2019-03-09,19.11,Sports and travel,401.27,382.16,4
+Mandalay,2019-03-10,7.21,Food and beverages,151.51,144.3,5
+Mandalay,2019-03-10,4.67,Sports and travel,98.05,93.38,1
+Mandalay,2019-03-10,39.54,Electronic accessories,830.37,790.83,9
+Mandalay,2019-03-11,48.69,Home and lifestyle,1022.38,973.7,10
+Mandalay,2019-03-11,2.72,Fashion accessories,57.08,54.36,2
+Mandalay,2019-03-12,4.64,Health and beauty,97.42,92.78,1
+Mandalay,2019-03-12,6.9,Sports and travel,144.96,138.06,6
+Mandalay,2019-03-12,34.02,Electronic accessories,714.33,680.31,9
+Mandalay,2019-03-13,0.89,Health and beauty,18.64,17.75,1
+Mandalay,2019-03-13,4.3,Health and beauty,90.3,86.0,8
+Mandalay,2019-03-13,21.28,Food and beverages,446.96,425.68,8
+Mandalay,2019-03-14,19.23,Health and beauty,403.87,384.64,4
+Mandalay,2019-03-14,11.79,Food and beverages,247.59,235.8,5
+Mandalay,2019-03-14,10.58,Electronic accessories,222.14,211.56,4
+Mandalay,2019-03-14,21.03,Sports and travel,441.59,420.56,7
+Mandalay,2019-03-14,32.45,Health and beauty,681.44,648.99,9
+Mandalay,2019-03-14,12.51,Health and beauty,262.79,250.28,4
+Mandalay,2019-03-14,4.74,Sports and travel,99.54,94.8,8
+Mandalay,2019-03-14,14.26,Home and lifestyle,299.37,285.11,7
+Mandalay,2019-03-15,13.39,Sports and travel,281.17,267.78,6
+Mandalay,2019-03-15,3.02,Electronic accessories,63.31,60.3,1
+Mandalay,2019-03-16,26.39,Electronic accessories,554.29,527.9,10
+Mandalay,2019-03-16,16.43,Fashion accessories,345.02,328.59,9
+Mandalay,2019-03-16,8.45,Food and beverages,177.41,168.96,8
+Mandalay,2019-03-17,17.28,Health and beauty,362.82,345.54,6
+Mandalay,2019-03-17,5.08,Home and lifestyle,106.6,101.52,9
+Mandalay,2019-03-18,17.87,Home and lifestyle,375.36,357.49,7
+Mandalay,2019-03-18,36.21,Sports and travel,760.45,724.24,8
+Mandalay,2019-03-19,10.71,Electronic accessories,225.01,214.3,10
+Mandalay,2019-03-19,1.99,Electronic accessories,41.74,39.75,1
+Mandalay,2019-03-19,4.84,Electronic accessories,101.64,96.8,8
+Mandalay,2019-03-19,16.61,Food and beverages,348.7,332.1,10
+Mandalay,2019-03-19,15.99,Sports and travel,335.89,319.9,10
+Mandalay,2019-03-20,23.16,Electronic accessories,486.44,463.28,8
+Mandalay,2019-03-20,7.09,Electronic accessories,149.0,141.9,5
+Mandalay,2019-03-20,15.13,Electronic accessories,317.83,302.7,6
+Mandalay,2019-03-20,39.66,Health and beauty,832.94,793.28,8
+Mandalay,2019-03-21,9.19,Home and lifestyle,193.07,183.88,4
+Mandalay,2019-03-22,20.72,Health and beauty,435.12,414.4,5
+Mandalay,2019-03-22,24.5,Home and lifestyle,514.61,490.1,10
+Mandalay,2019-03-22,4.37,Food and beverages,91.82,87.45,3
+Mandalay,2019-03-23,10.35,Home and lifestyle,217.26,206.91,3
+Mandalay,2019-03-23,3.94,Electronic accessories,82.72,78.78,3
+Mandalay,2019-03-23,4.91,Home and lifestyle,103.13,98.22,6
+Mandalay,2019-03-23,2.76,Electronic accessories,57.88,55.12,4
+Mandalay,2019-03-23,4.42,Sports and travel,92.73,88.31,1
+Mandalay,2019-03-24,39.71,Electronic accessories,833.96,794.25,9
+Mandalay,2019-03-24,2.53,Sports and travel,53.15,50.62,2
+Mandalay,2019-03-24,29.98,Home and lifestyle,629.5,599.52,6
+Mandalay,2019-03-24,18.95,Home and lifestyle,397.85,378.9,6
+Mandalay,2019-03-25,2.69,Fashion accessories,56.47,53.78,1
+Mandalay,2019-03-26,10.57,Food and beverages,222.01,211.44,8
+Mandalay,2019-03-26,5.99,Health and beauty,125.72,119.73,3
+Mandalay,2019-03-26,3.29,Home and lifestyle,68.98,65.7,3
+Mandalay,2019-03-26,12.57,Food and beverages,263.97,251.4,4
+Mandalay,2019-03-26,19.77,Home and lifestyle,415.23,395.46,6
+Mandalay,2019-03-26,13.81,Electronic accessories,289.93,276.12,6
+Mandalay,2019-03-27,3.33,Food and beverages,69.99,66.66,2
+Mandalay,2019-03-27,3.83,Electronic accessories,80.37,76.54,2
+Mandalay,2019-03-27,8.62,Electronic accessories,181.07,172.45,5
+Mandalay,2019-03-27,42.31,Food and beverages,888.62,846.3,10
+Mandalay,2019-03-28,12.92,Home and lifestyle,271.29,258.37,7
+Mandalay,2019-03-28,30.48,Electronic accessories,640.04,609.56,7
+Mandalay,2019-03-28,4.99,Fashion accessories,104.83,99.84,2
+Mandalay,2019-03-28,7.98,Food and beverages,167.58,159.6,6
+Mandalay,2019-03-28,1.27,Electronic accessories,26.72,25.45,1
+Mandalay,2019-03-28,3.39,Food and beverages,71.16,67.77,1
+Mandalay,2019-03-29,15.93,Fashion accessories,334.48,318.55,5
+Mandalay,2019-03-29,1.48,Health and beauty,31.0,29.52,2
+Mandalay,2019-03-29,24.8,Health and beauty,520.8,496.0,8
+Mandalay,2019-03-30,30.15,Health and beauty,633.11,602.96,8
+Mandalay,2019-03-30,38.3,Sports and travel,804.3,766.0,10
+Mandalay,2019-03-30,8.74,Fashion accessories,183.65,174.9,10
+Mandalay,2019-03-30,48.69,Home and lifestyle,1022.49,973.8,10

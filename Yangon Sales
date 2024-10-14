@@ -1,0 +1,341 @@
+City,Date,gross income,Product line,Total,cost price,Quantity
+Yangon,2019-01-01,26.14,Health and beauty,548.97,522.83,7
+Yangon,2019-01-01,16.22,Home and lifestyle,340.53,324.31,7
+Yangon,2019-01-01,23.29,Health and beauty,489.05,465.76,8
+Yangon,2019-01-01,30.21,Sports and travel,634.38,604.17,7
+Yangon,2019-01-01,20.65,Electronic accessories,433.69,413.04,6
+Yangon,2019-01-01,3.63,Health and beauty,76.15,72.52,2
+Yangon,2019-01-02,11.74,Electronic accessories,246.49,234.75,5
+Yangon,2019-01-02,21.59,Food and beverages,453.5,431.9,10
+Yangon,2019-01-02,35.69,Health and beauty,749.49,713.8,10
+Yangon,2019-01-02,24.13,Health and beauty,506.64,482.51,7
+Yangon,2019-01-02,21.78,Sports and travel,457.44,435.66,6
+Yangon,2019-01-02,8.2,Food and beverages,172.21,164.01,3
+Yangon,2019-01-03,8.64,Electronic accessories,181.44,172.8,5
+Yangon,2019-01-03,13.29,Sports and travel,279.18,265.89,3
+Yangon,2019-01-03,21.04,Home and lifestyle,441.76,420.72,8
+Yangon,2019-01-03,8.77,Fashion accessories,184.11,175.34,2
+Yangon,2019-01-04,11.2,Health and beauty,235.21,224.01,9
+Yangon,2019-01-04,9.66,Health and beauty,202.82,193.16,2
+Yangon,2019-01-05,15.65,Sports and travel,328.75,313.1,5
+Yangon,2019-01-05,27.4,Electronic accessories,575.32,547.92,9
+Yangon,2019-01-06,11.15,Food and beverages,234.1,222.95,5
+Yangon,2019-01-07,4.43,Home and lifestyle,93.11,88.68,2
+Yangon,2019-01-07,35.84,Health and beauty,752.64,716.8,8
+Yangon,2019-01-07,36.17,Home and lifestyle,759.67,723.5,10
+Yangon,2019-01-07,7.91,Sports and travel,166.0,158.1,10
+Yangon,2019-01-08,7.93,Health and beauty,166.63,158.7,10
+Yangon,2019-01-08,39.38,Sports and travel,827.09,787.7,10
+Yangon,2019-01-08,0.92,Health and beauty,19.25,18.33,1
+Yangon,2019-01-08,33.6,Home and lifestyle,705.63,672.03,9
+Yangon,2019-01-08,9.0,Fashion accessories,189.09,180.09,9
+Yangon,2019-01-09,17.28,Food and beverages,362.94,345.66,7
+Yangon,2019-01-09,2.12,Sports and travel,44.59,42.47,1
+Yangon,2019-01-10,7.69,Sports and travel,161.55,153.86,7
+Yangon,2019-01-10,4.86,Electronic accessories,102.02,97.16,1
+Yangon,2019-01-10,7.91,Food and beverages,166.16,158.25,3
+Yangon,2019-01-11,17.48,Food and beverages,367.04,349.56,6
+Yangon,2019-01-11,44.34,Electronic accessories,931.03,886.7,10
+Yangon,2019-01-12,18.64,Sports and travel,391.42,372.78,6
+Yangon,2019-01-12,26.13,Home and lifestyle,548.76,522.63,9
+Yangon,2019-01-13,5.48,Food and beverages,115.08,109.6,10
+Yangon,2019-01-13,39.82,Electronic accessories,836.3,796.48,8
+Yangon,2019-01-13,32.79,Home and lifestyle,688.62,655.83,7
+Yangon,2019-01-13,8.06,Sports and travel,169.31,161.25,5
+Yangon,2019-01-14,27.64,Sports and travel,580.42,552.78,6
+Yangon,2019-01-14,6.58,Electronic accessories,138.13,131.55,5
+Yangon,2019-01-14,10.33,Home and lifestyle,216.85,206.52,6
+Yangon,2019-01-14,29.0,Sports and travel,609.0,580.0,8
+Yangon,2019-01-15,23.39,Home and lifestyle,491.08,467.7,6
+Yangon,2019-01-15,15.07,Fashion accessories,316.47,301.4,10
+Yangon,2019-01-15,12.98,Health and beauty,272.66,259.68,8
+Yangon,2019-01-15,37.46,Fashion accessories,786.62,749.16,9
+Yangon,2019-01-16,23.07,Food and beverages,484.52,461.45,5
+Yangon,2019-01-16,3.18,Sports and travel,66.87,63.69,1
+Yangon,2019-01-16,16.03,Food and beverages,336.56,320.53,7
+Yangon,2019-01-17,49.49,Fashion accessories,1039.29,989.8,10
+Yangon,2019-01-17,15.38,Food and beverages,323.06,307.68,6
+Yangon,2019-01-17,24.33,Sports and travel,510.97,486.64,7
+Yangon,2019-01-17,17.5,Health and beauty,367.55,350.05,5
+Yangon,2019-01-18,15.23,Home and lifestyle,319.79,304.56,9
+Yangon,2019-01-18,8.87,Food and beverages,186.23,177.36,8
+Yangon,2019-01-18,22.16,Food and beverages,465.44,443.28,6
+Yangon,2019-01-18,7.75,Sports and travel,162.75,155.0,10
+Yangon,2019-01-19,4.32,Sports and travel,90.7,86.38,7
+Yangon,2019-01-19,3.7,Home and lifestyle,77.77,74.07,1
+Yangon,2019-01-19,8.18,Electronic accessories,171.73,163.55,5
+Yangon,2019-01-19,1.26,Home and lifestyle,26.55,25.29,1
+Yangon,2019-01-20,10.36,Health and beauty,217.63,207.27,9
+Yangon,2019-01-21,11.8,Electronic accessories,247.87,236.07,9
+Yangon,2019-01-21,0.91,Home and lifestyle,19.19,18.28,1
+Yangon,2019-01-21,14.2,Electronic accessories,298.12,283.92,3
+Yangon,2019-01-22,4.33,Food and beverages,90.83,86.5,2
+Yangon,2019-01-23,25.37,Home and lifestyle,532.73,507.36,8
+Yangon,2019-01-23,25.97,Health and beauty,545.37,519.4,10
+Yangon,2019-01-23,9.31,Sports and travel,195.59,186.28,2
+Yangon,2019-01-23,4.48,Fashion accessories,94.17,89.69,1
+Yangon,2019-01-23,11.22,Food and beverages,235.68,224.46,9
+Yangon,2019-01-23,5.98,Health and beauty,125.52,119.54,2
+Yangon,2019-01-24,12.53,Home and lifestyle,263.13,250.6,4
+Yangon,2019-01-24,19.04,Home and lifestyle,399.76,380.72,8
+Yangon,2019-01-24,4.49,Fashion accessories,94.19,89.7,5
+Yangon,2019-01-24,15.54,Electronic accessories,326.42,310.88,4
+Yangon,2019-01-24,4.75,Home and lifestyle,99.75,95.0,4
+Yangon,2019-01-24,23.56,Home and lifestyle,494.76,471.2,8
+Yangon,2019-01-25,3.32,Electronic accessories,69.67,66.35,1
+Yangon,2019-01-25,7.77,Home and lifestyle,163.23,155.46,6
+Yangon,2019-01-25,6.45,Electronic accessories,135.45,129.0,4
+Yangon,2019-01-25,33.78,Electronic accessories,709.32,675.54,9
+Yangon,2019-01-25,11.12,Sports and travel,233.52,222.4,10
+Yangon,2019-01-25,34.44,Sports and travel,723.24,688.8,7
+Yangon,2019-01-25,14.15,Home and lifestyle,297.11,282.96,4
+Yangon,2019-01-25,17.77,Home and lifestyle,373.17,355.4,10
+Yangon,2019-01-26,9.69,Home and lifestyle,203.55,193.86,9
+Yangon,2019-01-26,1.2,Home and lifestyle,25.26,24.06,2
+Yangon,2019-01-26,22.01,Sports and travel,462.21,440.2,10
+Yangon,2019-01-26,27.98,Home and lifestyle,587.66,559.68,8
+Yangon,2019-01-26,0.77,Sports and travel,16.11,15.34,1
+Yangon,2019-01-26,29.95,Health and beauty,628.93,598.98,6
+Yangon,2019-01-26,9.53,Health and beauty,200.21,190.68,4
+Yangon,2019-01-27,33.21,Home and lifestyle,697.37,664.16,7
+Yangon,2019-01-27,3.12,Electronic accessories,65.6,62.48,1
+Yangon,2019-01-27,3.64,Food and beverages,76.36,72.72,2
+Yangon,2019-01-27,23.51,Home and lifestyle,493.79,470.28,6
+Yangon,2019-01-27,12.0,Home and lifestyle,252.04,240.04,4
+Yangon,2019-01-28,10.24,Electronic accessories,215.0,204.76,4
+Yangon,2019-01-28,25.27,Electronic accessories,530.67,505.4,7
+Yangon,2019-01-28,14.08,Sports and travel,295.69,281.61,7
+Yangon,2019-01-28,35.52,Home and lifestyle,745.84,710.32,8
+Yangon,2019-01-28,3.97,Electronic accessories,83.41,79.44,3
+Yangon,2019-01-28,8.19,Fashion accessories,172.01,163.82,2
+Yangon,2019-01-28,3.56,Food and beverages,74.71,71.15,5
+Yangon,2019-01-28,7.0,Health and beauty,146.95,139.95,9
+Yangon,2019-01-29,4.58,Health and beauty,96.14,91.56,6
+Yangon,2019-01-29,15.44,Fashion accessories,324.29,308.85,5
+Yangon,2019-01-29,6.46,Home and lifestyle,135.58,129.12,6
+Yangon,2019-01-29,24.95,Food and beverages,523.85,498.9,5
+Yangon,2019-01-30,7.27,Electronic accessories,152.71,145.44,4
+Yangon,2019-01-30,4.93,Food and beverages,103.64,98.7,3
+Yangon,2019-01-30,19.25,Fashion accessories,404.36,385.1,5
+Yangon,2019-01-30,2.35,Food and beverages,49.31,46.96,2
+Yangon,2019-01-30,7.11,Electronic accessories,149.36,142.25,5
+Yangon,2019-01-30,34.38,Fashion accessories,721.98,687.6,9
+Yangon,2019-01-31,6.7,Sports and travel,140.65,133.95,3
+Yangon,2019-01-31,35.07,Fashion accessories,736.44,701.37,9
+Yangon,2019-01-31,3.6,Electronic accessories,75.55,71.95,1
+Yangon,2019-01-31,9.11,Electronic accessories,191.25,182.14,7
+Yangon,2019-01-31,18.09,Electronic accessories,379.92,361.83,7
+Yangon,2019-02-02,32.38,Food and beverages,680.06,647.68,8
+Yangon,2019-02-02,21.97,Home and lifestyle,461.29,439.32,6
+Yangon,2019-02-02,13.19,Home and lifestyle,276.95,263.76,4
+Yangon,2019-02-02,9.68,Electronic accessories,203.18,193.5,9
+Yangon,2019-02-03,16.77,Home and lifestyle,352.22,335.45,5
+Yangon,2019-02-03,24.18,Fashion accessories,507.68,483.5,5
+Yangon,2019-02-03,16.47,Sports and travel,345.79,329.32,4
+Yangon,2019-02-03,10.23,Food and beverages,214.94,204.7,5
+Yangon,2019-02-04,16.16,Health and beauty,339.36,323.2,10
+Yangon,2019-02-04,3.84,Electronic accessories,80.66,76.82,1
+Yangon,2019-02-04,26.13,Sports and travel,548.73,522.6,10
+Yangon,2019-02-04,3.99,Health and beauty,83.73,79.74,1
+Yangon,2019-02-04,19.38,Health and beauty,406.88,387.5,5
+Yangon,2019-02-04,13.57,Food and beverages,284.92,271.35,5
+Yangon,2019-02-05,13.45,Sports and travel,282.49,269.04,4
+Yangon,2019-02-05,3.45,Food and beverages,72.4,68.95,5
+Yangon,2019-02-05,11.31,Home and lifestyle,237.43,226.12,4
+Yangon,2019-02-06,5.24,Health and beauty,110.09,104.85,5
+Yangon,2019-02-06,3.88,Sports and travel,81.4,77.52,3
+Yangon,2019-02-06,20.37,Home and lifestyle,427.81,407.44,8
+Yangon,2019-02-06,8.83,Electronic accessories,185.37,176.54,7
+Yangon,2019-02-07,18.61,Health and beauty,390.8,372.19,7
+Yangon,2019-02-07,45.33,Home and lifestyle,951.83,906.5,10
+Yangon,2019-02-07,7.04,Electronic accessories,147.8,140.76,6
+Yangon,2019-02-07,10.2,Home and lifestyle,214.14,203.94,6
+Yangon,2019-02-08,40.14,Home and lifestyle,843.03,802.89,9
+Yangon,2019-02-08,6.68,Sports and travel,140.38,133.7,7
+Yangon,2019-02-08,15.9,Food and beverages,333.95,318.05,5
+Yangon,2019-02-08,1.25,Health and beauty,26.25,25.0,1
+Yangon,2019-02-09,4.15,Electronic accessories,87.23,83.08,4
+Yangon,2019-02-09,12.84,Food and beverages,269.54,256.7,5
+Yangon,2019-02-10,8.01,Sports and travel,168.21,160.2,4
+Yangon,2019-02-10,21.57,Fashion accessories,452.87,431.3,10
+Yangon,2019-02-10,16.11,Electronic accessories,338.31,322.2,5
+Yangon,2019-02-10,9.78,Health and beauty,205.32,195.54,3
+Yangon,2019-02-10,8.31,Sports and travel,174.62,166.3,5
+Yangon,2019-02-11,1.93,Electronic accessories,40.53,38.6,1
+Yangon,2019-02-11,9.29,Sports and travel,194.99,185.7,5
+Yangon,2019-02-12,7.43,Fashion accessories,156.03,148.6,4
+Yangon,2019-02-12,9.83,Fashion accessories,206.43,196.6,10
+Yangon,2019-02-13,20.61,Sports and travel,432.77,412.16,8
+Yangon,2019-02-14,9.67,Electronic accessories,203.11,193.44,8
+Yangon,2019-02-15,10.73,Home and lifestyle,225.28,214.55,5
+Yangon,2019-02-15,19.0,Fashion accessories,398.96,379.96,7
+Yangon,2019-02-15,34.84,Electronic accessories,731.69,696.85,7
+Yangon,2019-02-15,3.47,Home and lifestyle,72.93,69.46,2
+Yangon,2019-02-15,11.23,Home and lifestyle,235.87,224.64,6
+Yangon,2019-02-15,24.51,Food and beverages,514.77,490.26,6
+Yangon,2019-02-15,22.85,Sports and travel,479.9,457.05,5
+Yangon,2019-02-16,44.14,Sports and travel,926.95,882.81,9
+Yangon,2019-02-16,7.63,Health and beauty,160.21,152.58,6
+Yangon,2019-02-16,34.67,Fashion accessories,728.11,693.44,8
+Yangon,2019-02-16,7.08,Home and lifestyle,148.68,141.6,5
+Yangon,2019-02-17,4.9,Home and lifestyle,102.84,97.94,1
+Yangon,2019-02-17,14.61,Fashion accessories,306.81,292.2,4
+Yangon,2019-02-17,4.6,Home and lifestyle,96.64,92.04,3
+Yangon,2019-02-17,14.71,Fashion accessories,308.91,294.2,10
+Yangon,2019-02-17,27.43,Sports and travel,575.98,548.55,9
+Yangon,2019-02-17,19.82,Electronic accessories,416.18,396.36,6
+Yangon,2019-02-18,6.76,Electronic accessories,142.0,135.24,7
+Yangon,2019-02-19,12.5,Food and beverages,262.46,249.96,6
+Yangon,2019-02-19,10.86,Home and lifestyle,228.12,217.26,3
+Yangon,2019-02-19,22.35,Electronic accessories,469.41,447.06,6
+Yangon,2019-02-19,40.6,Food and beverages,852.71,812.1,10
+Yangon,2019-02-20,29.58,Fashion accessories,621.24,591.66,9
+Yangon,2019-02-20,3.55,Food and beverages,74.46,70.91,7
+Yangon,2019-02-20,21.48,Sports and travel,451.03,429.55,5
+Yangon,2019-02-21,12.85,Health and beauty,269.93,257.08,4
+Yangon,2019-02-21,15.54,Health and beauty,326.26,310.72,4
+Yangon,2019-02-22,10.34,Health and beauty,217.18,206.84,4
+Yangon,2019-02-22,7.85,Food and beverages,164.87,157.02,3
+Yangon,2019-02-22,10.77,Sports and travel,226.06,215.3,5
+Yangon,2019-02-22,3.65,Health and beauty,76.75,73.1,5
+Yangon,2019-02-22,2.28,Sports and travel,47.86,45.58,1
+Yangon,2019-02-23,11.28,Sports and travel,236.88,225.6,3
+Yangon,2019-02-23,7.83,Food and beverages,164.43,156.6,3
+Yangon,2019-02-23,7.03,Home and lifestyle,147.67,140.64,2
+Yangon,2019-02-24,18.78,Fashion accessories,394.33,375.55,7
+Yangon,2019-02-24,1.53,Fashion accessories,32.14,30.61,1
+Yangon,2019-02-25,1.45,Electronic accessories,30.41,28.96,1
+Yangon,2019-02-25,33.73,Food and beverages,708.23,674.5,10
+Yangon,2019-02-25,17.42,Sports and travel,365.9,348.48,9
+Yangon,2019-02-25,29.56,Food and beverages,620.74,591.18,6
+Yangon,2019-02-25,10.75,Food and beverages,225.79,215.04,3
+Yangon,2019-02-25,4.58,Food and beverages,96.19,91.61,1
+Yangon,2019-02-26,6.09,Sports and travel,127.83,121.74,2
+Yangon,2019-02-26,8.0,Home and lifestyle,167.9,159.9,3
+Yangon,2019-02-26,0.6,Fashion accessories,12.69,12.09,1
+Yangon,2019-02-26,32.09,Sports and travel,674.0,641.9,10
+Yangon,2019-02-26,11.75,Electronic accessories,246.68,234.93,3
+Yangon,2019-02-26,8.38,Food and beverages,175.92,167.54,2
+Yangon,2019-02-27,10.13,Health and beauty,212.78,202.65,7
+Yangon,2019-02-27,8.71,Home and lifestyle,182.95,174.24,9
+Yangon,2019-02-28,36.39,Home and lifestyle,764.19,727.8,10
+Yangon,2019-03-01,2.35,Electronic accessories,49.42,47.07,3
+Yangon,2019-03-01,13.22,Fashion accessories,277.67,264.45,3
+Yangon,2019-03-01,6.98,Sports and travel,146.63,139.65,5
+Yangon,2019-03-01,2.77,Fashion accessories,58.22,55.45,1
+Yangon,2019-03-02,9.73,Fashion accessories,204.25,194.52,4
+Yangon,2019-03-02,28.02,Fashion accessories,588.42,560.4,10
+Yangon,2019-03-02,22.74,Electronic accessories,477.54,454.8,10
+Yangon,2019-03-02,14.69,Food and beverages,308.57,293.88,4
+Yangon,2019-03-02,14.55,Food and beverages,305.55,291.0,6
+Yangon,2019-03-03,2.15,Fashion accessories,45.11,42.96,2
+Yangon,2019-03-03,31.78,Home and lifestyle,667.38,635.6,10
+Yangon,2019-03-03,10.06,Food and beverages,211.37,201.3,3
+Yangon,2019-03-03,24.32,Health and beauty,510.62,486.3,10
+Yangon,2019-03-03,21.84,Home and lifestyle,458.69,436.85,5
+Yangon,2019-03-03,5.41,Sports and travel,113.57,108.16,4
+Yangon,2019-03-04,31.31,Electronic accessories,657.53,626.22,9
+Yangon,2019-03-05,3.85,Sports and travel,80.95,77.1,3
+Yangon,2019-03-05,24.19,Food and beverages,507.91,483.72,6
+Yangon,2019-03-05,8.92,Health and beauty,187.32,178.4,5
+Yangon,2019-03-05,25.01,Fashion accessories,525.23,500.22,7
+Yangon,2019-03-05,1.79,Electronic accessories,37.61,35.82,3
+Yangon,2019-03-05,6.81,Fashion accessories,142.95,136.14,3
+Yangon,2019-03-06,4.46,Fashion accessories,93.74,89.28,4
+Yangon,2019-03-06,8.4,Health and beauty,176.4,168.0,3
+Yangon,2019-03-06,0.98,Fashion accessories,20.68,19.7,1
+Yangon,2019-03-07,42.28,Home and lifestyle,887.92,845.64,9
+Yangon,2019-03-07,7.16,Sports and travel,150.42,143.26,2
+Yangon,2019-03-07,3.77,Home and lifestyle,79.15,75.38,2
+Yangon,2019-03-08,6.82,Food and beverages,143.22,136.4,5
+Yangon,2019-03-08,8.71,Electronic accessories,182.91,174.2,10
+Yangon,2019-03-08,38.92,Fashion accessories,817.24,778.32,8
+Yangon,2019-03-09,28.96,Home and lifestyle,608.08,579.12,6
+Yangon,2019-03-09,9.43,Food and beverages,197.93,188.5,10
+Yangon,2019-03-09,11.08,Food and beverages,232.64,221.56,4
+Yangon,2019-03-09,25.55,Fashion accessories,536.59,511.04,8
+Yangon,2019-03-09,2.67,Health and beauty,56.12,53.45,5
+Yangon,2019-03-09,11.1,Health and beauty,233.1,222.0,4
+Yangon,2019-03-09,3.43,Home and lifestyle,72.01,68.58,6
+Yangon,2019-03-10,18.95,Sports and travel,397.99,379.04,4
+Yangon,2019-03-10,1.53,Fashion accessories,32.15,30.62,1
+Yangon,2019-03-11,26.1,Electronic accessories,548.16,522.06,7
+Yangon,2019-03-11,20.62,Sports and travel,432.99,412.37,7
+Yangon,2019-03-11,2.32,Fashion accessories,48.73,46.41,1
+Yangon,2019-03-11,32.41,Electronic accessories,680.61,648.2,7
+Yangon,2019-03-11,4.66,Electronic accessories,97.88,93.22,2
+Yangon,2019-03-12,12.24,Sports and travel,257.14,244.9,10
+Yangon,2019-03-12,22.03,Fashion accessories,462.67,440.64,9
+Yangon,2019-03-12,15.49,Home and lifestyle,325.37,309.88,4
+Yangon,2019-03-12,9.32,Sports and travel,195.68,186.36,2
+Yangon,2019-03-12,10.05,Electronic accessories,210.97,200.92,4
+Yangon,2019-03-13,20.13,Electronic accessories,422.73,402.6,10
+Yangon,2019-03-13,4.76,Electronic accessories,99.91,95.15,1
+Yangon,2019-03-13,19.45,Electronic accessories,408.41,388.96,8
+Yangon,2019-03-13,13.55,Food and beverages,284.59,271.04,8
+Yangon,2019-03-14,4.77,Home and lifestyle,100.13,95.36,2
+Yangon,2019-03-14,10.31,Health and beauty,216.44,206.13,3
+Yangon,2019-03-14,4.4,Sports and travel,92.44,88.04,4
+Yangon,2019-03-14,6.19,Fashion accessories,130.03,123.84,3
+Yangon,2019-03-14,37.11,Electronic accessories,779.31,742.2,10
+Yangon,2019-03-14,4.22,Electronic accessories,88.7,84.48,8
+Yangon,2019-03-14,4.57,Health and beauty,95.86,91.3,1
+Yangon,2019-03-14,2.62,Fashion accessories,55.0,52.38,1
+Yangon,2019-03-15,9.63,Fashion accessories,202.34,192.7,5
+Yangon,2019-03-15,7.79,Fashion accessories,163.61,155.82,3
+Yangon,2019-03-15,3.95,Sports and travel,82.89,78.94,2
+Yangon,2019-03-15,1.07,Fashion accessories,22.39,21.32,1
+Yangon,2019-03-15,14.07,Electronic accessories,295.41,281.34,3
+Yangon,2019-03-15,3.66,Electronic accessories,76.92,73.26,1
+Yangon,2019-03-16,29.73,Fashion accessories,624.33,594.6,6
+Yangon,2019-03-16,3.71,Fashion accessories,77.81,74.1,1
+Yangon,2019-03-16,9.85,Fashion accessories,206.81,196.96,2
+Yangon,2019-03-16,23.99,Health and beauty,503.74,479.75,5
+Yangon,2019-03-17,5.66,Home and lifestyle,118.9,113.24,4
+Yangon,2019-03-17,21.43,Food and beverages,450.1,428.67,9
+Yangon,2019-03-17,1.28,Sports and travel,26.8,25.52,2
+Yangon,2019-03-18,11.94,Electronic accessories,250.71,238.77,3
+Yangon,2019-03-18,12.92,Sports and travel,271.28,258.36,4
+Yangon,2019-03-19,8.69,Food and beverages,182.43,173.74,7
+Yangon,2019-03-19,26.72,Sports and travel,561.08,534.36,6
+Yangon,2019-03-19,4.66,Home and lifestyle,97.82,93.16,4
+Yangon,2019-03-19,36.01,Electronic accessories,756.17,720.16,8
+Yangon,2019-03-19,10.33,Home and lifestyle,216.85,206.52,6
+Yangon,2019-03-19,8.33,Food and beverages,175.01,166.68,2
+Yangon,2019-03-19,15.95,Sports and travel,335.01,319.06,7
+Yangon,2019-03-20,4.39,Food and beverages,92.3,87.9,1
+Yangon,2019-03-20,36.73,Electronic accessories,771.43,734.7,10
+Yangon,2019-03-20,38.46,Sports and travel,807.66,769.2,10
+Yangon,2019-03-20,15.77,Food and beverages,331.13,315.36,9
+Yangon,2019-03-21,6.93,Health and beauty,145.58,138.65,5
+Yangon,2019-03-21,4.04,Food and beverages,84.75,80.71,7
+Yangon,2019-03-22,7.95,Food and beverages,167.03,159.08,2
+Yangon,2019-03-22,37.25,Home and lifestyle,782.21,744.96,8
+Yangon,2019-03-22,20.54,Fashion accessories,431.26,410.72,8
+Yangon,2019-03-22,14.94,Food and beverages,313.74,298.8,3
+Yangon,2019-03-23,18.93,Fashion accessories,397.61,378.68,4
+Yangon,2019-03-23,17.83,Health and beauty,374.41,356.58,9
+Yangon,2019-03-24,37.22,Food and beverages,781.62,744.4,10
+Yangon,2019-03-24,22.37,Sports and travel,469.77,447.4,5
+Yangon,2019-03-24,13.81,Health and beauty,290.08,276.27,3
+Yangon,2019-03-25,13.3,Food and beverages,279.38,266.08,4
+Yangon,2019-03-25,22.84,Home and lifestyle,479.64,456.8,10
+Yangon,2019-03-25,12.7,Health and beauty,266.65,253.95,5
+Yangon,2019-03-25,3.53,Health and beauty,74.09,70.56,7
+Yangon,2019-03-25,32.86,Electronic accessories,690.02,657.16,7
+Yangon,2019-03-26,14.9,Fashion accessories,312.89,297.99,7
+Yangon,2019-03-26,44.4,Food and beverages,932.34,887.94,9
+Yangon,2019-03-27,2.09,Electronic accessories,43.87,41.78,2
+Yangon,2019-03-27,0.78,Fashion accessories,16.27,15.5,1
+Yangon,2019-03-27,14.98,Home and lifestyle,314.69,299.7,9
+Yangon,2019-03-27,12.15,Home and lifestyle,255.18,243.03,3
+Yangon,2019-03-27,2.37,Health and beauty,49.77,47.4,3
+Yangon,2019-03-28,12.01,Home and lifestyle,252.25,240.24,3
+Yangon,2019-03-28,14.93,Food and beverages,313.57,298.64,4
+Yangon,2019-03-29,11.63,Health and beauty,244.23,232.6,4
+Yangon,2019-03-29,43.87,Sports and travel,921.19,877.32,9
+Yangon,2019-03-30,14.14,Food and beverages,296.94,282.8,5
+Yangon,2019-03-30,5.8,Electronic accessories,121.86,116.06,2
+Yangon,2019-03-30,1.59,Food and beverages,33.43,31.84,1
+Yangon,2019-03-30,3.29,Home and lifestyle,69.11,65.82,1
+Yangon,2019-03-30,30.92,Fashion accessories,649.3,618.38,7
